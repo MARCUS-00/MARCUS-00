@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Manoj Kumar — Data Analyst · SQL · Python · Power BI">
+# Manoj Kumar
+<sub>DATA ANALYST  · SQL · PYTHON · POWER BI</sub>
 
 </div>
 
@@ -10,32 +11,30 @@ Hey, I'm Manoj. I enjoy turning messy datasets into decisions people can trust. 
 
 - 🔭 I'm currently working on **CropSignal** — an end-to-end mandi price analytics pipeline using AGMARKNET, PostgreSQL, and FastAPI
 - 🤝 I'm looking to collaborate on **end-to-end data projects, analytics engineering, and open-source tools that make data genuinely useful**
-- 🆘 I'm looking for help with **portfolio feedback and Data Analyst interview preparation**
 - 🌱 I'm currently learning **FastAPI, production-style data pipelines, and analytics systems beyond notebooks**
 - 💬 Ask me about **SQL, Python, data pipelines, statistical testing, forecasting**
-- ⚡ Fun fact: **I'd rather ship an honest 61% than a misleading 97%**
+- ⚡ Fun fact: I'd rather ship an honest 61% than a misleading 97%
 
-<div align="center">
-<img src="./assets/divider.svg" width="100%" alt="">
-</div>
+---
 
-🎓 Research Intern, PES University (C3I) — explainable AI and medical imaging
+> 🎓 **Research Intern**, PES University (C3I) — explainable AI and medical imaging
 
 ## 📊 Featured Projects
 
-**[E-Commerce Revenue & Customer Retention Analytics](https://github.com/MARCUS-00/ecommerce-retention-analytics)**
-Uncovering what really drives customer satisfaction across 100K+ real orders.
+| Project | What it does |
+|---|---|
+| **[E-Commerce Revenue & Customer Retention Analytics](https://github.com/MARCUS-00/ecommerce-retention-analytics)** | Uncovering what really drives customer satisfaction across 100K+ real orders |
+| **[OsteoScan](https://github.com/MARCUS-00/Early-Detection-of-Osteoporosis-using-Dental-X-rays)** | Rebuilt an over-optimistic ML model into one I could actually trust |
 
-**[OsteoScan](https://github.com/MARCUS-00/Early-Detection-of-Osteoporosis-using-Dental-X-rays)**
-Rebuilt an over-optimistic ML model into one I could actually trust.
-
-<div align="center">
-<img src="./assets/divider.svg" width="100%" alt="">
-</div>
+---
 
 ## 🌐 Socials
 
+<div align="left">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kumar-842072286/) [![email](https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=white)](mailto:mailtomanojkumar07@gmail.com)
+
+</div>
 
 ## 💻 Tech Stack
 
